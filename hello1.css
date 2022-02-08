@@ -2,7 +2,7 @@ body{
     background-color: #3D087B;
 }
 .logo{
-    background-image: url(clock.png);
+    background-image: url(./clock.png);
     top: 40px;
     left: 124px;
     width: 115px;
@@ -733,7 +733,7 @@ position: absolute;
     }
     
     .b2img{
-        background-image: url(morning_window0.jpg);
+        background-image: url(./morning_window0.jpg);
         border-radius: 10px;
          width: 340px;
          height: 400px;
