@@ -10,21 +10,7 @@ body{
     margin-left: 30px;
     position: relative;
 }
-/*
-.fal{
-    margin-top: 15px;
-    margin-left: 150px;
-    font-size: 70px;
-    color: pink;
-}
-.logotxt{
-    color: white;
-    margin-top: -50px;
-    margin-left: 250px;
-    font-size: 30px;
-    font-weight: bolder;
 
-} */
 
 .timer1{
     
@@ -336,7 +322,7 @@ position: absolute;
     background-image: url(./morning_window1.jpg);
     border-radius: 10px;
     width: 100%;
-    height: 400px;
+    height: 380px;
 }
 
 .gdnoon{
