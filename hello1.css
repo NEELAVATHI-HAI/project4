@@ -10,7 +10,21 @@ body{
     margin-left: 30px;
     position: relative;
 }
+/*
+.fal{
+    margin-top: 15px;
+    margin-left: 150px;
+    font-size: 70px;
+    color: pink;
+}
+.logotxt{
+    color: white;
+    margin-top: -50px;
+    margin-left: 250px;
+    font-size: 30px;
+    font-weight: bolder;
 
+} */
 
 .timer1{
     
@@ -323,6 +337,8 @@ position: absolute;
     border-radius: 10px;
     width: 100%;
     height: 380px;
+    /*margin-left:-1px;*/
+    
 }
 
 .gdnoon{
